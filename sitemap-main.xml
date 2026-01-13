@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://thetop10rank.com/</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/about/</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/how-we-rank/</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/editorial-policy/</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/contact/</loc>
+        <lastmod>2025-12-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+</urlset>
+

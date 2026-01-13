@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://thetop10rank.com/sitemap.xml
+Sitemap: https://thetop10rank.com/sitemap-design-studios.xml
+Sitemap: https://thetop10rank.com/sitemap-dentists.xml
+Sitemap: https://thetop10rank.com/sitemap-gyms.xml
+Sitemap: https://thetop10rank.com/sitemap-tattoo-studios.xml
+Sitemap: https://thetop10rank.com/sitemap-hair-salons.xml
+Sitemap: https://thetop10rank.com/sitemap-restaurants.xml
+Sitemap: https://thetop10rank.com/sitemap-clubs.xml
+
+# Disallow search results and parameter-based pages
+Disallow: /search?
+Disallow: /*?sort=
+Disallow: /*?filter=
+Disallow: /*?page=
+
+# Crawl-delay for aggressive bots (optional)
+User-agent: AhrefsBot
+Crawl-delay: 2
+
+User-agent: SemrushBot
+Crawl-delay: 2
+
