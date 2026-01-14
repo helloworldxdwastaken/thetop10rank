@@ -1,91 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- Niche Hub -->
     <url>
         <loc>https://thetop10rank.com/design-studios/</loc>
-        <lastmod>2025-12-29</lastmod>
+        <lastmod>2026-01-14</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    
-    <!-- Methodology -->
-    <url>
-        <loc>https://thetop10rank.com/design-studios/how-we-rank/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <!-- City Pages -->
-    <url>
-        <loc>https://thetop10rank.com/design-studios/new-york/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://thetop10rank.com/design-studios/los-angeles/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://thetop10rank.com/design-studios/chicago/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://thetop10rank.com/design-studios/austin/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://thetop10rank.com/design-studios/miami/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>https://thetop10rank.com/design-studios/chicago/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://thetop10rank.com/design-studios/tel-aviv/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
-    
-    <!-- Type Pages -->
     <url>
-        <loc>https://thetop10rank.com/design-studios/type/branding/</loc>
-        <lastmod>2025-12-28</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <loc>https://thetop10rank.com/design-studios/listings/gideon-amichay/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://thetop10rank.com/design-studios/type/ux-design/</loc>
-        <lastmod>2025-12-28</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <loc>https://thetop10rank.com/design-studios/listings/order/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://thetop10rank.com/design-studios/type/digital-design/</loc>
-        <lastmod>2025-12-28</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <loc>https://thetop10rank.com/design-studios/listings/studio-yaron/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
-    
-    <!-- Listing Pages -->
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/toky-tlv/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/red-antler/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/open-tel-aviv/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
     <url>
         <loc>https://thetop10rank.com/design-studios/listings/verox-studio/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/gretel/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/area17/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/banana-tlv/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://thetop10rank.com/design-studios/listings/pentagram-new-york/</loc>
-        <lastmod>2025-12-28</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/odeיo-studio/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/sputnik-design/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/ramotion-tlv/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/ueno/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/collins/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/partnersandspade/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/adס/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/listings/wolff-olins-new-york/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/new-york/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/miami/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/los-angeles/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/design-studios/how-we-rank/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset>
-

@@ -1,57 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <!-- Niche Hub -->
     <url>
         <loc>https://thetop10rank.com/hair-salons/</loc>
-        <lastmod>2025-12-29</lastmod>
+        <lastmod>2026-01-14</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    
-    <!-- City Pages -->
-    <url>
-        <loc>https://thetop10rank.com/hair-salons/tampa/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://thetop10rank.com/hair-salons/miami/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
+        <loc>https://thetop10rank.com/hair-salons/listings/haven-hair-studio/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/tress-house/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/parlour-salon/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/muse-salon-tampa/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/studio-eleven-tampa/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/social-house-salon/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/boulevard-salon/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/legacy-mens-grooming/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/salon-chic-tampa/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://thetop10rank.com/hair-salons/listings/artistry-salon/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://thetop10rank.com/hair-salons/orlando/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
-    
-    <!-- Type Pages -->
     <url>
-        <loc>https://thetop10rank.com/hair-salons/type/color-specialists/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <loc>https://thetop10rank.com/hair-salons/tampa/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://thetop10rank.com/hair-salons/type/curly-hair/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <loc>https://thetop10rank.com/hair-salons/miami/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://thetop10rank.com/hair-salons/type/extensions/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://thetop10rank.com/hair-salons/type/mens-grooming/</loc>
-        <lastmod>2025-12-29</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <loc>https://thetop10rank.com/hair-salons/how-we-rank/</loc>
+        <lastmod>2026-01-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset>
-
