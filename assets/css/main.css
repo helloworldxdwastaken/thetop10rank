@@ -1,8 +1,11 @@
 /* RANKIN DESIGN SYSTEM - MODERN, FAST, MINIMAL */
 
 :root {
-    --primary: #2563eb;
-    --primary-dark: #1e40af;
+    --primary: #0B1F3A;
+    /* Navy */
+    --primary-dark: #07162b;
+    --secondary: #F5C16C;
+    /* Gold */
     --text: #1f2937;
     --text-light: #6b7280;
     --bg: #ffffff;
@@ -26,6 +29,13 @@ body {
     color: var(--text);
     line-height: 1.6;
     background: var(--bg);
+    padding-top: 140px;
+    /* Space for fixed header on standard pages */
+}
+
+body:has(.hero) {
+    padding-top: 0;
+    /* No padding for hero pages so artwork hits top */
 }
 
 .container {
@@ -36,47 +46,80 @@ body {
 
 /* HEADER */
 .site-header {
-    background: var(--bg);
-    border-bottom: 1px solid var(--border);
-    padding: 20px 0;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    backdrop-filter: blur(10px);
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(11, 31, 58, 0.6);
+    /* Much more transparent/lighter navy */
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(245, 193, 108, 0.4);
+    /* Gold tint border */
+    padding: 15px 0;
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: var(--max-width);
+    border-radius: 50px;
+    z-index: 1000;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2), 0 0 15px rgba(245, 193, 108, 0.1);
+    /* Subtle gold glow */
 }
 
 .site-header .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 30px;
 }
 
 .logo a {
-    font-size: 24px;
-    font-weight: 700;
-    color: var(--primary);
+    display: flex;
+    align-items: center;
     text-decoration: none;
+}
+
+.site-logo {
+    height: 40px;
+    width: auto;
+    transition: transform 0.2s;
+}
+
+.logo a:hover .site-logo {
+    transform: scale(1.05);
 }
 
 .main-nav a {
     margin-left: 30px;
-    color: var(--text);
+    color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     font-weight: 500;
     transition: color 0.2s;
 }
 
-.main-nav a:hover {
-    color: var(--primary);
+.main-nav a:hover,
+.main-nav a.active {
+    color: var(--secondary);
 }
 
 /* HERO */
 .hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #0B1F3A 0%, #1e3a8a 100%);
     color: white;
-    padding: 80px 0;
+    padding: 200px 0 120px;
+    /* Increased top padding for content clearance and full feel */
+    min-height: 80vh;
+    /* Make it feel full */
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
+    position: relative;
+    /* Context for children if needed */
+}
+
+.hero .container {
+    padding-top: 60px;
+    /* Extra push down from header */
 }
 
 .hero h1 {
@@ -97,37 +140,42 @@ body {
     margin: 0 auto;
     display: flex;
     background: white;
-    border-radius: var(--radius);
+    border-radius: 50px;
     overflow: hidden;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
 }
 
 .search-bar input {
     flex: 1;
     border: none;
-    padding: 16px 20px;
+    padding: 20px 30px;
     font-size: 16px;
     outline: none;
 }
 
 .search-bar button {
-    background: var(--primary);
-    color: white;
+    background: var(--secondary);
+    color: var(--primary);
     border: none;
     padding: 16px 32px;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 700;
     cursor: pointer;
     transition: background 0.2s;
 }
 
 .search-bar button:hover {
-    background: var(--primary-dark);
+    background: #e0b060;
 }
 
 /* SECTIONS */
 section {
     padding: 80px 0;
+}
+
+main {
+    padding-top: 0;
+    /* Removed offset so hero sits behind header */
 }
 
 section h2 {
@@ -148,17 +196,19 @@ section h2 {
     border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 30px;
-    transition: transform 0.2s, box-shadow 0.2s;
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
 }
 
 .category-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border-color: var(--secondary);
 }
 
 .category-card h3 {
     font-size: 24px;
     margin-bottom: 12px;
+    color: var(--primary);
 }
 
 .category-card h3 a {
@@ -233,13 +283,26 @@ section h2 {
     color: var(--text-light);
 }
 
+.hero .breadcrumb {
+    color: rgba(255, 255, 255, 0.8);
+    padding: 0 0 20px 0;
+}
+
 .breadcrumb a {
     color: var(--text-light);
     text-decoration: none;
 }
 
+.hero .breadcrumb a {
+    color: rgba(255, 255, 255, 0.9);
+}
+
 .breadcrumb a:hover {
     color: var(--primary);
+}
+
+.hero .breadcrumb a:hover {
+    color: var(--secondary);
 }
 
 /* RANKING TABLE */
@@ -414,6 +477,12 @@ section h2 {
     font-weight: 600;
     background: var(--primary);
     color: white;
+}
+
+.badge-verified {
+    background: var(--secondary);
+    color: var(--primary);
+    font-weight: 700;
 }
 
 .update-date {
